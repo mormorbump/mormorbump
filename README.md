@@ -59,7 +59,7 @@ XのDMなどでお願いします。
         - オブザーバビリティ
 
 # Skills
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,go,ruby,py,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,vim,terraform,gcp,vscode&perline=11)
+![My Skills](https://skillicons.dev/icons?i=aws,bash,go,ruby,py,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,vim,terraform,gcp,vscode&perline=11)
 
 # Article
 

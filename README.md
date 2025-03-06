@@ -19,10 +19,12 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
 XのDMなどでお願いします。
 
 # Resume
+- 2016.6 ~ 2017.7 [DMM WEBCAMP](https://lp.web-camp.io/commit/lp/jobchange10/?utm_source=cpc-google&utm_medium=commit-unspecified-brand&utm_term=dmm%20webcamp_e&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIKPwdJ_LE8cGDR2M7gyPhbPvqeG9_nIsfSQTsepMiTF568fxUV4S3BoCe8sQAvD_BwE#)
+  - メンター
 - 2017.8 ~ 2019.6 [株式会社GAUSS](https://gauss-ai.jp/)
   - Speech To Text系の音声認識APIの精度検証
   - 宅建の過去問を予想するAIのモデリングをLSTM, 隠れマルコフを用いて開発
-　  - [AIによる試験問題予測システム「未来問」](https://prtimes.jp/main/html/rd/p/000000014.000027358.html)
+    - [AIによる試験問題予測システム「未来問」](https://prtimes.jp/main/html/rd/p/000000014.000027358.html)
 - 2019.8 ~ 現在　[Graffity株式会社](https://graffity.jp/)
   - サーバーサイドのリードエンジニアとして入社
     - [LeapTrigger(US版)](https://leaptrigger.com/jp)
@@ -43,6 +45,7 @@ XのDMなどでお願いします。
         - AWS/Terraform(ECS)
       - 運用まで
     - [たかのめAR](https://www.softbankhawks.co.jp/news/detail/202300227236.html)
+      - PM
       - 8th wallを用いたマーカーARの構築
       - マップ、道案内実装
       - API実装

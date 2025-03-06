@@ -60,7 +60,6 @@ XのDMなどでお願いします。
 
 # Skills
 [![My Skills](https://skillicons.dev/icons?i=aws,bash,go,ruby,py,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,vim,terraform,gcp,vscode&perline=11)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azukizuki&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 # Article
 

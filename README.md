@@ -17,8 +17,8 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
 
 中規模以上想定の0->1からの設計、立ち上げ、そしてリリースや運用まで、すべての工程で戦力になれると思います。よろしくお願いします。
 
-# 依頼
-XのDMなどでお願いします。
+# Make a Request
+お仕事の相談やご依頼はXのDMなどでお願いします。
 
 # Resume
 - 2016.6 ~ 2017.7 [DMM WEBCAMP](https://lp.web-camp.io/commit/lp/jobchange10/?utm_source=cpc-google&utm_medium=commit-unspecified-brand&utm_term=dmm%20webcamp_e&gad_source=1&gclid=CjwKCAiArKW-BhAzEiwAZhWsIKPwdJ_LE8cGDR2M7gyPhbPvqeG9_nIsfSQTsepMiTF568fxUV4S3BoCe8sQAvD_BwE#)

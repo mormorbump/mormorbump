@@ -62,6 +62,8 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
       - 運用
         - 負荷対策
         - オブザーバビリティ
+- 2025.3 ~ 現在　[株式会社Blue](https://blue1993.com/)
+  - 技術顧問としてアーキテクチャの改善やリファクタリングの提案
 
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=aws,bash,go,ruby,py,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,vim,terraform,gcp,vscode&perline=11)

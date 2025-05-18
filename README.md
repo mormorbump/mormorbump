@@ -62,6 +62,15 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
       - 運用
         - 負荷対策
         - オブザーバビリティ
+    - 社内AI推進Projectの開発、兼PM
+      - Cline, Cursor, Windsurf, Devinなどの調査
+      - 社内のワークフローでのユースケース洗い出し
+      - Obsidian導入
+      - PR Agent推進
+      - Devin推進
+      - 4月タイミングでの、AI周りのトレンドの社内共有
+      - メンバーのタスク進捗管理
+      - AIプロジェクトの予算管理、他予算の削減
 - 2025.3 ~ 現在　[株式会社Blue](https://blue1993.com/)
   - 技術顧問としてアーキテクチャの改善やリファクタリングの提案
 

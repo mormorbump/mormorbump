@@ -1,7 +1,6 @@
 # Profile
-Graffity株式会社所属(https://graffity.jp/)
 
-サーバーサイドのリードエンジニア、兼エンジニアマネージャーです。
+サーバーサイドのリードエンジニア兼エンジニアマネージャーの経験があります。
 
 Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのアウトゲーム開発、課金、CICD、マルチプレイ同期基盤などが経験領域です。
 
@@ -29,7 +28,7 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
   - Speech To Text系の音声認識APIの精度検証
   - 宅建の過去問を予想するAIのモデリングをLSTM, 隠れマルコフを用いて開発
     - [AIによる試験問題予測システム「未来問」](https://prtimes.jp/main/html/rd/p/000000014.000027358.html)
-- 2019.8 ~ 現在　[Graffity株式会社](https://graffity.jp/)
+- 2019.8 ~ 2026.5　[Graffity株式会社](https://graffity.jp/)
   - サーバーサイドのリードエンジニア / エンジニアマネージャー
   - マネジメント: 3〜5名のピープルマネジメント、採用（正社員2名・業務委託5名）、育成計画フレームワーク設計
     - [LeapTrigger(US版/JP版)](https://leaptrigger.com/jp)

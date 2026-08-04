@@ -65,12 +65,17 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
       - BGM/SEなど全てのサウンドの作成とUnityのanimation file・Luaへの組み込み
 - 2025.3 ~ 2026.3　[株式会社Blue](https://blue1993.com/)
   - 技術顧問としてアーキテクチャの改善やリファクタリングの提案
+- 2026.5 ~ 現在　[日本電気株式会社（NEC）](https://jpn.nec.com/)（業務委託）
+  - スタートアップ支援サービスにおける開発支援
+  - AWS基盤の運用・整備（IaC）
+  - Amazon Bedrockを用いたAIエージェント / botの設計・開発
+  - AI駆動開発（Claude Code等）の実践・ワークフロー整備
 
 # Skills
 ![My Skills](https://skillicons.dev/icons?i=aws,bash,go,ruby,py,docker,firebase,git,github,gitlab,idea,jenkins,js,linux,vim,terraform,gcp,vscode&perline=11)
 
 ### AI / Agent
-LiveKit Agent, OpenClaw, Claude Code, Tree-sitter, Prompt Engineering
+LiveKit Agent, OpenClaw, Claude Code, Amazon Bedrock, Tree-sitter, Prompt Engineering
 
 # Article
 

@@ -4,7 +4,7 @@
 
 Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのアウトゲーム開発、課金、CICD、マルチプレイ同期基盤などが経験領域です。
 
-インフラは主にAWSを利用しており、Terraformでのゼロからの構築経験に加え、CloudFormationやAWS CDK（Cloud Development Kit）による構築経験もあります。
+インフラは主にAWSを利用しており、Terraform / CloudFormation / AWS CDK（Cloud Development Kit）でのゼロからの構築経験があります。
 
 運用プロダクトのオブザーバビリティ、負荷調査、さらに大手に求められる非機能要求やセキュリティチェックの実装経験もしてきました。
 

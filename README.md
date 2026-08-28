@@ -67,6 +67,7 @@ Go/Ruby/Python/JavaScriptを主に書いていて、Web系、ソシャゲのア�
   - 技術顧問としてアーキテクチャの改善やリファクタリングの提案
 - 2026.5 ~ 現在　[日本電気株式会社（NEC）](https://jpn.nec.com/)（業務委託）
   - スタートアップ支援サービスにおける開発支援
+  - 既存のNEC AI PlatformのAWSバージョンのクローン構築
   - AWS基盤の運用・整備（IaC）
   - Amazon Bedrockを用いたAIエージェント / botの設計・開発
   - AI駆動開発（Claude Code等）の実践・ワークフロー整備
